@@ -1,0 +1,35 @@
+<svg width="1200" height="360" viewBox="0 0 1200 360" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">DroGone — Developer profile</title>
+  <desc id="desc">Professional dark banner with a subtle blue grid and the DroGone name.</desc>
+  <defs>
+    <linearGradient id="background" x1="0" y1="0" x2="1200" y2="360" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0D1117"/>
+      <stop offset="0.58" stop-color="#101B2E"/>
+      <stop offset="1" stop-color="#0D1117"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="0" cy="0" r="1" gradientTransform="translate(920 108) rotate(134.6) scale(466 432)" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#58A6FF" stop-opacity=".28"/>
+      <stop offset="1" stop-color="#58A6FF" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="grid" width="42" height="42" patternUnits="userSpaceOnUse">
+      <path d="M42 0H0V42" fill="none" stroke="#58A6FF" stroke-opacity=".11"/>
+    </pattern>
+    <filter id="shadow" x="-30%" y="-40%" width="160%" height="180%">
+      <feDropShadow dx="0" dy="10" stdDeviation="13" flood-color="#000" flood-opacity=".42"/>
+    </filter>
+  </defs>
+  <rect width="1200" height="360" rx="22" fill="url(#background)"/>
+  <rect width="1200" height="360" rx="22" fill="url(#grid)"/>
+  <rect width="1200" height="360" rx="22" fill="url(#glow)"/>
+  <path d="M755 302C854 216 938 222 1051 112C1092 72 1127 35 1200 20" stroke="#58A6FF" stroke-opacity=".42" stroke-width="1.5"/>
+  <path d="M805 340C904 254 1001 259 1101 169C1144 130 1175 105 1200 96" stroke="#58A6FF" stroke-opacity=".19" stroke-width="1.5"/>
+  <circle cx="1050" cy="112" r="5" fill="#58A6FF"/>
+  <circle cx="1050" cy="112" r="13" stroke="#58A6FF" stroke-opacity=".28"/>
+  <g filter="url(#shadow)">
+    <rect x="71" y="78" width="58" height="58" rx="16" fill="#58A6FF"/>
+    <path d="M89 95.5L100 107L89 118.5M110 95.5L99 107L110 118.5" stroke="#0D1117" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <text x="71" y="194" fill="#F0F6FC" font-family="Arial, Helvetica, sans-serif" font-size="59" font-weight="700" letter-spacing="-2">DroGone</text>
+  <text x="75" y="233" fill="#8B949E" font-family="Arial, Helvetica, sans-serif" font-size="19" letter-spacing="3">DEVELOPER · DIGITAL BUILDER</text>
+  <rect x="72" y="275" width="284" height="2" rx="1" fill="#58A6FF"/>
+</svg>
