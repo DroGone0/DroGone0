@@ -35,8 +35,10 @@ Sur ce GitHub, je partage mes projets personnels et universitaires : administrat
 
 ## Activité
 
-Le calendrier de contributions officiel de GitHub, mis à jour automatiquement, est affiché directement sur mon profil sous cette présentation.
-
 <div align="center">
-  <sub>Profil GitHub : projets, expérimentations et progression technique.</sub>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DroGone0/DroGone0/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DroGone0/DroGone0/output/github-contribution-grid-snake.svg" />
+    <img alt="Graphe des contributions GitHub animé" src="https://raw.githubusercontent.com/DroGone0/DroGone0/output/github-contribution-grid-snake-dark.svg" />
+  </picture>
 </div>
