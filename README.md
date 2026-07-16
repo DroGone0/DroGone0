@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./assets/workspace-pixel.png" alt="Pixel art workspace at night" width="100%" />
+  <img src="./assets/workspace-pixel.gif" alt="Animated pixel art workspace at night" width="100%" />
 </div>
 
 <br />
@@ -63,6 +63,7 @@ I build polished digital experiences where design, motion and implementation wor
 
 <div align="center">
   <a href="https://github.com/DroGone0?tab=followers"><img src="https://img.shields.io/github/followers/DroGone0?label=FOLLOW&style=for-the-badge&color=58A6FF&labelColor=161B22" alt="Follow DroGone on GitHub" /></a>
+  <a href="https://www.linkedin.com/in/robin-britelle/"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Robin Britelle on LinkedIn" /></a>
   <br /><br />
   <sub>Build with intent. Refine with care.</sub>
 </div>
