@@ -7,17 +7,23 @@
 
 <div align="center">
   <img src="./assets/workspace-pixel.gif" alt="Atelier pixel art animé : pluie à la fenêtre et éclair d'orage" width="100%" />
-</div>
-
-<div align="center">
   <h1>DroGone</h1>
-  <b>Développement · Réseaux · Nouvelles technologies</b><br />
-  <sub>Des projets techniques, des interfaces et l'envie de comprendre comment les choses fonctionnent.</sub>
+  <b>BUT Réseaux &amp; Télécommunications · Informatique · Nouvelles technologies</b>
 </div>
 
 ## À propos
 
-Je développe des projets web et interactifs. Je m'intéresse aussi aux réseaux, aux systèmes et aux technologies récentes : de l'interface visible à l'infrastructure qui la fait tourner.
+> Salut, moi c'est **DroGone** 👋
+
+Je suis étudiant en **BUT Réseaux & Télécommunications** et passionné d'informatique. Je m'intéresse aux réseaux, à la virtualisation et au cloud, et je travaille régulièrement avec de nombreux outils du domaine.
+
+Sur ce GitHub, je partage mes projets personnels et universitaires : administration système, infrastructures réseau, développement d'applications et développement de jeux.
+
+<div align="center">
+  <sub><b>Une question, une idée de projet ou envie d'échanger ?</b></sub><br /><br />
+  <img src="https://img.shields.io/badge/Discord-drogone__-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord : drogone_" />
+  <a href="mailto:drogoneia@gmail.com"><img src="https://img.shields.io/badge/Email-drogoneia%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Envoyer un e-mail à drogoneia@gmail.com" /></a>
+</div>
 
 ## Compétences
 
