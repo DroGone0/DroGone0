@@ -20,7 +20,7 @@ Je suis étudiant en **BUT Réseaux & Télécommunications** et passionné d'inf
 Sur ce GitHub, je partage mes projets personnels et universitaires : administration système, infrastructures réseau, développement d'applications et développement de jeux.
 
 <div align="center">
-  <sub><b>Une question, une idée de projet ou envie d'échanger ?</b></sub><br /><br />
+  <h3>Une question, une idée de projet ou envie d'échanger&nbsp;?</h3>
   <img src="https://img.shields.io/badge/Discord-drogone__-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord : drogone_" />
   <a href="mailto:drogoneia@gmail.com"><img src="https://img.shields.io/badge/Email-drogoneia%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Envoyer un e-mail à drogoneia@gmail.com" /></a>
 </div>
