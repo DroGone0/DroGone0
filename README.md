@@ -1,69 +1,70 @@
 <div align="center">
-  <img src="./assets/workspace-pixel.gif" alt="Animated pixel art workspace at night" width="100%" />
+  <a href="https://www.linkedin.com/in/robin-britelle/"><img src="https://img.shields.io/badge/ROBIN_BRITELLE-%C3%89CHANGEONS_SUR_LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Voir le profil LinkedIn de Robin Britelle" /></a>
+  <br /><br />
+  <a href="https://github.com/DroGone0?tab=followers"><img src="https://img.shields.io/github/followers/DroGone0?label=ABONN%C3%89S&style=for-the-badge&color=58A6FF&labelColor=161B22" alt="Abonnés GitHub" /></a>
+  <img src="https://komarev.com/ghpvc/?username=DroGone0&style=for-the-badge&color=58A6FF&label=VUES+DU+PROFIL" alt="Vues du profil" />
 </div>
 
 <br />
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=23&pause=1150&color=58A6FF&center=true&vCenter=true&width=700&lines=DROGONE+%2F%2F+DIGITAL+BUILDER;DESIGNING+CLEAN+INTERFACES;BUILDING+INTERACTIVE+EXPERIENCES" alt="DroGone — Digital Builder" />
+  <img src="./assets/workspace-pixel.gif" alt="Atelier pixel art animé : pluie, écrans et lumière" width="100%" />
 </div>
 
 <div align="center">
-  <sub><b>INTERFACE CRAFT</b> &nbsp;·&nbsp; <b>WEB EXPERIENCES</b> &nbsp;·&nbsp; <b>CREATIVE DEVELOPMENT</b></sub>
+  <h1>Robin Britelle <sub>· DroGone</sub></h1>
+  <b>Développement · Réseaux · Nouvelles technologies</b><br />
+  <sub>Je développe des projets techniques et j'aime comprendre ce qui se passe derrière l'interface.</sub>
 </div>
 
-<br />
+## Contributions GitHub
 
 <div align="center">
-  <img src="./assets/pixel-signal.svg" alt="Animated pixel signal" width="76%" />
+  <img src="https://ghchart.rshah.org/58A6FF/DroGone0" alt="Graphique des contributions GitHub de DroGone0" width="100%" />
 </div>
 
-## ✦ Profile
+## Ce que je fais
 
-I build polished digital experiences where design, motion and implementation work together. My focus is simple: clear interfaces, thoughtful interaction, and the small details that make a product feel finished.
+Je construis des projets web et interactifs, tout en explorant les réseaux, l'infrastructure et les technologies récentes. J'aime passer d'une interface soignée à la logique qui la fait fonctionner, puis améliorer le résultat par itérations concrètes.
 
-<table>
-  <tr>
-    <td width="33%" valign="top"><b>01 — Interface</b><br /><sub>Structured, responsive UI with visual clarity at every screen size.</sub></td>
-    <td width="33%" valign="top"><b>02 — Interaction</b><br /><sub>Motion and feedback that support the experience, never distract from it.</sub></td>
-    <td width="33%" valign="top"><b>03 — Craft</b><br /><sub>Clean implementation, intentional details and room to evolve.</sub></td>
-  </tr>
-</table>
+- Développement d'interfaces et d'applications web
+- Projets techniques autour du réseau, des systèmes et du cloud
+- Expérimentation avec des outils récents, de l'automatisation et du Lua
 
-## ✦ Toolkit
+## Compétences
 
-<b>Frontend & UI</b>
+<b>Développement web & interfaces</b>
 
 <p>
   <img src="https://img.shields.io/badge/TypeScript-1B2A41?style=for-the-badge&logo=typescript&logoColor=58A6FF" alt="TypeScript" />
   <img src="https://img.shields.io/badge/JavaScript-1B2A41?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
   <img src="https://img.shields.io/badge/React-1B2A41?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/HTML5-1B2A41?style=for-the-badge&logo=html5&logoColor=E34F26" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1B2A41?style=for-the-badge&logo=css&logoColor=1572B6" alt="CSS3" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-1B2A41?style=for-the-badge&logo=tailwindcss&logoColor=38BDF8" alt="Tailwind CSS" />
   <img src="https://img.shields.io/badge/Vite-1B2A41?style=for-the-badge&logo=vite&logoColor=BD34FE" alt="Vite" />
 </p>
 
-<b>Code & creative tooling</b>
+<b>Systèmes, réseau & cloud</b>
 
 <p>
-  <img src="https://img.shields.io/badge/HTML5-1B2A41?style=for-the-badge&logo=html5&logoColor=E34F26" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1B2A41?style=for-the-badge&logo=css&logoColor=1572B6" alt="CSS3" />
-  <img src="https://img.shields.io/badge/Python-1B2A41?style=for-the-badge&logo=python&logoColor=FFD43B" alt="Python" />
-  <img src="https://img.shields.io/badge/Lua-1B2A41?style=for-the-badge&logo=lua&logoColor=7AA2F7" alt="Lua" />
-  <img src="https://img.shields.io/badge/Git-1B2A41?style=for-the-badge&logo=git&logoColor=F05032" alt="Git" />
+  <img src="https://img.shields.io/badge/Linux-1B2A41?style=for-the-badge&logo=linux&logoColor=FCC624" alt="Linux" />
+  <img src="https://img.shields.io/badge/Docker-1B2A41?style=for-the-badge&logo=docker&logoColor=2496ED" alt="Docker" />
+  <img src="https://img.shields.io/badge/Proxmox-1B2A41?style=for-the-badge&logo=proxmox&logoColor=E57000" alt="Proxmox" />
+  <img src="https://img.shields.io/badge/VirtualBox-1B2A41?style=for-the-badge&logo=virtualbox&logoColor=2F61B4" alt="VirtualBox" />
+  <img src="https://img.shields.io/badge/Cisco-1B2A41?style=for-the-badge&logo=cisco&logoColor=1BA0D7" alt="Cisco" />
 </p>
 
-## ✦ GitHub activity
+<b>Langages & outils</b>
+
+<p>
+  <img src="https://img.shields.io/badge/Python-1B2A41?style=for-the-badge&logo=python&logoColor=FFD43B" alt="Python" />
+  <img src="https://img.shields.io/badge/Lua-1B2A41?style=for-the-badge&logo=lua&logoColor=7AA2F7" alt="Lua" />
+  <img src="https://img.shields.io/badge/Node.js-1B2A41?style=for-the-badge&logo=nodedotjs&logoColor=5FA04E" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Git-1B2A41?style=for-the-badge&logo=git&logoColor=F05032" alt="Git" />
+  <img src="https://img.shields.io/badge/VS_Code-1B2A41?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC" alt="Visual Studio Code" />
+</p>
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=DroGone0&show_icons=true&hide_title=true&hide_border=true&bg_color=00000000&text_color=C9D1D9&icon_color=58A6FF&ring_color=58A6FF&rank_icon=github" alt="GitHub statistics" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DroGone0&layout=compact&hide_border=true&bg_color=00000000&text_color=C9D1D9&title_color=58A6FF" alt="Most used languages" />
-</div>
-
-<br />
-
-<div align="center">
-  <a href="https://github.com/DroGone0?tab=followers"><img src="https://img.shields.io/github/followers/DroGone0?label=FOLLOW&style=for-the-badge&color=58A6FF&labelColor=161B22" alt="Follow DroGone on GitHub" /></a>
-  <a href="https://www.linkedin.com/in/robin-britelle/"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Robin Britelle on LinkedIn" /></a>
-  <br /><br />
-  <sub>Build with intent. Refine with care.</sub>
+  <sub>Profil GitHub : projets, expérimentations et progression technique.</sub>
 </div>
